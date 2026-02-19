@@ -9,6 +9,8 @@
 
 ### 2. Infinite Mode (전투 씬)
 ![g1](https://github.com/user-attachments/assets/e4757993-5f7a-448b-b594-cd62d6d9476b)
+![g2](https://github.com/user-attachments/assets/f350bbae-6d45-43c7-beaa-e559a6dff9bf)
+![g3](https://github.com/user-attachments/assets/80da5968-922e-498d-b653-d0168aa880d4)
 
 웨이브 기반의 로그라이크 전투가 벌어지는 공간입니다.
 - **동적 난이도 & 디버프:** 시간이 지날수록 시스템 오류(디버프)가 축적되며, 플레이어의 현재 스탯과 보유 아이템을 분석해 유효한 증강(Augment)만 제공하는 뱀파이어 서바이버식 루팅 시스템. (`InfiniteModeManager.cs`)
